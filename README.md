@@ -8,3 +8,4 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@sRomSts](https://t.me/sRomSts)</code>
 <code>📫 [rroma5129@gmail.com](mailto:rroma5129@gmail.com)</code>
+<code>🏫 Courses(https://rromsky.github.io/courses)</code>
