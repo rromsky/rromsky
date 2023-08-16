@@ -6,6 +6,6 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: C++, JavaScript</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@sRomSts](https://t.me/sRomSts)</code>
+<code>💬 telegram: [@rtpmagh](https://t.me/rtpmagh)</code>
 <code>📫 [rroma5129@gmail.com](mailto:rroma5129@gmail.com)</code>
 <code>🏫 Courses [Link](https://rromsky.github.io/courses)</code>
