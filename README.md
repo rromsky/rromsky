@@ -4,8 +4,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: C++, JavaScript</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@rtpmagh](https://t.me/rtpmagh)</code>
-<code>📫 [rroma5129@gmail.com](mailto:rroma5129@gmail.com)</code>
-<code>🏫 Courses [Link](https://rromsky.github.io/courses)</code>
+<code>🧑‍💻 Languages: JavaScript, C++</code>
+<code>💬 telegram: [@rtpmagh](https://t.me/rromsky)</code>
+<code>📫 [roman-romanko@rromsky.tech](mailto:roman-romanko@rromsky.tech)</code>
+<code>🏫 Courses [Link](https://rromsky.tech/)</code>
